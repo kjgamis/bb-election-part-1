@@ -46,8 +46,6 @@ If you go to it now in your browser, you'll see some lovely JSON data!
 
 ### Listing Current Results
 
-List
-
 As you may have already seen if you went to the API in your browser, our first endpoint, the one that returns election results, lives at the root of our API, or `/`.
 
 Making a `GET` request to `https://bb-election-api.herokuapp.com/` is going to return a bunch of JSON data to us, that'll look something like this:
